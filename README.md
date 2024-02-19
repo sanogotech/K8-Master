@@ -19,4 +19,5 @@
 
 - kubproxy
 - Kublet
-- Pod ( container 1, n)
+- Pod 1( container 1, n)
+- Pod2, ..
