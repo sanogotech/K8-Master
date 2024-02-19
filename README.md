@@ -11,9 +11,9 @@
 ### Node Master
 
 - Api server
-- etcd
+- etcd ( key value db configuration)
 - scheduler
-- controller
+- controller ( monitoring)
 
 ## Node Workers
 
@@ -21,3 +21,17 @@
 - Kublet
 - Pod 1( container 1, n)
 - Pod2, ..
+
+
+## Flow from Api server to pod
+
+- Api server / etcd congig key values
+- Scheduler / update etcd
+- Kublet
+- create pod
+- pod state alert Contrôler/ call scheduler
+
+## Install
+
+## Deploy pod
+
