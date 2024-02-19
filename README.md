@@ -13,7 +13,7 @@
 - Api server
 - etcd
 - scheduler
-- ?
+- controller
 
 ## Node Workers
 
