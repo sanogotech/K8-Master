@@ -3,7 +3,12 @@
 
 * https://youtu.be/L8n_HYDnq_I?si=a8LkUlnYlIL2D6W9
 
-##:Concepts
+## Kubernetes in 15mn
+
+* https://youtu.be/r2zuL9MW6wc?si=hvfNOePl761F2qN8
+
+  
+## Concepts
 
 - Node / VM/ Virtual Machine
 - Node Master vs Node Workers
