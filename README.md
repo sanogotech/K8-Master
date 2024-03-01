@@ -7,6 +7,10 @@
 
 * https://youtu.be/r2zuL9MW6wc?si=hvfNOePl761F2qN8
 
+## Kubernetes crash course video projet deploy microservices
+
+* https://youtu.be/XuSQU5Grv1g?si=EKYEg6QCVxSN6d_N
+
   
 ## Concepts
 
